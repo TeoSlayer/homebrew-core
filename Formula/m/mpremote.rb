@@ -3,8 +3,8 @@ class Mpremote < Formula
 
   desc "Tool for interacting remotely with MicroPython devices"
   homepage "https://docs.micropython.org/en/latest/reference/mpremote.html"
-  url "https://files.pythonhosted.org/packages/d2/1c/be7d96275379eca70af111a1d4711c77b1afa78f1782582f3ad082e2d228/mpremote-1.27.0.tar.gz"
-  sha256 "6bb75774648091dad6833af4f86c5bf6505f8d7aec211380f9e6996c01d23cb5"
+  url "https://files.pythonhosted.org/packages/20/1b/d008342d1b018fb60e1196bf72a164ea71a567f924db11934f0e3a0a10bc/mpremote-1.28.0.tar.gz"
+  sha256 "fdb5626be83dff4e53c0184f8950814cb519b524dba7f1f8b1668aa477257a31"
   license "MIT"
 
   bottle do
