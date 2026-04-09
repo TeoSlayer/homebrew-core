@@ -20,6 +20,7 @@ class Xrootd < Formula
   depends_on "pkgconf" => :build
   depends_on "python@3.14" => [:build, :test]
   depends_on "davix"
+  depends_on "libzip"
   depends_on "krb5"
   depends_on "openssl@3"
   depends_on "readline"
